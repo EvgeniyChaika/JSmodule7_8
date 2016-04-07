@@ -1,0 +1,21 @@
+.row {
+    position: relative;
+}
+label {
+    width: 100px;
+    display: inline-block;
+}
+.input-field {
+    width: 200px;
+}
+.tooltip {
+    background: #fff;
+    position: absolute;
+    box-shadow: 0 0 3px rgba(0,0,0,.2);
+    padding: 10px;
+    border-radius: 3px;
+    z-index: 1;
+    width: 210px;
+    left:330px;
+    top: -10px;
+}
